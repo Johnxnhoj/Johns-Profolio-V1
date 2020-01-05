@@ -1,0 +1,58 @@
+.container-x {
+  display: flex;
+}
+.quote {
+  background: rgba(123, 255, 255, 0.178);
+  width: 50%;
+  height: 390px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin: 30px 30px;
+}
+.SRQ-pic {
+  background: rgb(223, 117, 55);
+  width: 50%;
+  height: 500px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin: 30px 30px;
+}
+
+/*LIVING WILL*/
+.SRQ-pic-LW {
+  background: url("../pictures/Screen Shot 2020-01-04 at 4.13.26 PM.png");
+  width: 50%;
+  width: 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin: 30px 30px;
+}
+
+/*PUB BAR CSS*/
+.SRQ-pic-Pub {
+  background: url("../pictures/Screen Shot 2020-01-02 at 4.31.07 PM.png");
+  width: 50%;
+
+  background-size: 100%;
+  background-repeat: no-repeat;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin: 30px 30px;
+}
+/*ETSY PAGE*/
+.SRQ-pic-ETSY {
+  background: url("../pictures/Screen Shot 2020-01-04 at 2.41.42 PM.png");
+  width: 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin: 30px 30px;
+}
